@@ -1,0 +1,2 @@
+tsc chess-board.ts=>which convert's(transpiles) to js file
+node chess-board.js=>can be executed by node
